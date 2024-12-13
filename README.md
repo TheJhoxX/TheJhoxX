@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheJhoxX, here is my portfolio: https://thejhoxx-portfolio.vercel.app/
 - 👀 I’m interested in learning mobile and web development
-- 🌱 I’m currently learning fourth year of computer engineering, specializating in software engineering
+- 🌱 I’m currently a Software Developer at GMV and a last year student of Computer Engineering
 - 📫 How to reach me: victorjorgesibaja@gmail.com
 
 <!---
